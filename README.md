@@ -84,10 +84,9 @@ DrishtiNet addresses these gaps with a **portable, integrated, and cost-effectiv
 
 <div align="center">
   <a href="https://youtu.be/GU5hrrpp9i8?feature=shared" target="_blank" rel="noopener noreferrer">
-    <img src="<img width="1293" height="727" alt="Screenshot 2025-08-08 105514" src="https://github.com/user-attachments/assets/0cc0b012-8035-4a04-a583-09f0d1662395" />
-" alt="DrishtiNet Demo Video" width="600" style="border-radius: 10px;" />
-    <p><strong>Click above to watch how DrishtiNet transforms eye and brain health screening.</strong></p>
+    <img src="https://github.com/user-attachments/assets/0cc0b012-8035-4a04-a583-09f0d1662395" alt="DrishtiNet Demo Video" width="600" />
   </a>
+  <p><strong>Click above to watch how DrishtiNet transforms eye and brain health screening.</strong></p>
 </div>
 
 ---

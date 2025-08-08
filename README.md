@@ -1,5 +1,5 @@
 # 👁️ DrishtiNet: AI-Powered Integrated Ocular & Neurological Screening for India 🇮🇳
-
+## Youtube Link & Detailed Explanation document Link Mentioned Below
 ---
 
 ## ⭐ Executive Summary: Bridging India's Invisible Diagnostic Divide
@@ -87,6 +87,16 @@ DrishtiNet addresses these gaps with a **portable, integrated, and cost-effectiv
     <img src="https://github.com/user-attachments/assets/0cc0b012-8035-4a04-a583-09f0d1662395" alt="DrishtiNet Demo Video" width="600" />
   </a>
   <p><strong>Click above to watch how DrishtiNet transforms eye and brain health screening.</strong></p>
+</div>
+
+---
+## 📄 Download Our Complete Detailed Explanation Document
+
+<div align="center">
+  <a href="https://docs.google.com/document/d/1FURV66kYCepSqAI7pLeDcLr7Trf3E7tvix4GfNsYcz8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Download_Presentation-2025-blue?style=for-the-badge&logo=googledocs" alt="Download DrishtiNet Pitch Deck" />
+    <p><strong>Access detailed Explanation Decument Above.</strong></p>
+  </a>
 </div>
 
 ---
